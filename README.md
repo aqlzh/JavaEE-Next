@@ -7,3 +7,17 @@ Java  Microservices and middleware  .......
 
 
 [参考视频](https://www.bilibili.com/video/BV1i54y1m7cP?spm_id_from=pageDriver)
+
+#  预告
+## Redis
+
+##  Shiro 
+
+## ElasticSearch
+
+## Jsoup 
+
+## JVM
+
+## MQ
+
