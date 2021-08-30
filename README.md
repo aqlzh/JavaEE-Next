@@ -4,6 +4,14 @@ Java  Microservices and middleware  .......
 
 [Java 学习路线](https://www.pdai.tech/)
 
+## notes
+
+| 目录    | 概述                                                         |
+| ------- | ------------------------------------------------------------ |
+| 1、面试 | 八股文（计网、操作系统）、Java基础、JVM、多线程、MySQL、Redis、Kafka、Spring、分布式 |
+| 2、实战 | ES、Docker、Netty、LeetCode、实战算法、个人项目、秒杀项目、智慧社区、架构设计、领域模型 |
+
+
 ## SpringBootJWT
 基于Spring Boot  结合 JWT  技术
 JWT（Java Web Token） 一般用于登入验证
