@@ -1,10 +1,10 @@
-# JavaEE-Next
+# JavaEE-Next :fire:
 Java  Microservices and middleware  .......
 
 
-[Java 学习路线](https://www.pdai.tech/)
+- :dart: [Java 学习路线](https://www.pdai.tech/) 
 
-## notes
+## notes   :pencil:
 
 | 目录    | 概述                                                         |
 | ------- | ------------------------------------------------------------ |
@@ -30,6 +30,6 @@ Swagger   接口文档 API
 
 [参考视频](https://www.bilibili.com/video/BV1Y441197Lw?from=search&seid=11531585957150864827)
 
-#  预告（待更新）
+#  预告（待更新）  :poultry_leg:
 Redis、Shiro 、ElasticSearch、Jsoup 、JVM、MQ
 
