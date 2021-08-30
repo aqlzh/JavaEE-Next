@@ -12,6 +12,8 @@ Java  Microservices and middleware  .......
 | 2、实战 | ES、Docker、Netty、LeetCode、实战算法、个人项目、秒杀项目、智慧社区、架构设计、领域模型 |
 
 
+- 1、面试 2、实战 转载   [@isSmilence](https://github.com/idaSmilence/javaP7)  侵权联系删
+
 ## SpringBootJWT
 基于Spring Boot  结合 JWT  技术
 JWT（Java Web Token） 一般用于登入验证
