@@ -18,16 +18,6 @@ Swagger   接口文档 API
 
 [参考视频](https://www.bilibili.com/video/BV1Y441197Lw?from=search&seid=11531585957150864827)
 
-#  预告
-## Redis
-
-##  Shiro 
-
-## ElasticSearch
-
-## Jsoup 
-
-## JVM
-
-## MQ
+#  预告（待更新）
+Redis、Shiro 、ElasticSearch、Jsoup 、JVM、MQ
 
